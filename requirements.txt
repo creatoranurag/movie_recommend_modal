@@ -1,3 +1,5 @@
-streamlit,joblib,pandas,numpy
-pip install streamlit
-pip install joblib
+
+streamlit
+joblib
+pandas
+numpy
